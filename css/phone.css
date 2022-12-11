@@ -35,7 +35,7 @@ color: rgb(77, 65, 65);
 }
 
 .hero-heading{
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .btn{
@@ -79,4 +79,20 @@ color: #fff;
     text-decoration: none;
     text-transform: uppercase;
     color: #222;
+}
+
+.following-list{
+    list-style: none ;
+}
+.news-item-ul{
+    list-style-type: none;
+}
+
+.site-footer{
+    background-color: #222;
+    color:white;
+}
+
+.sitenav-link{
+    color: white;
 }
